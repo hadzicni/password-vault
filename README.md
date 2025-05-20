@@ -47,7 +47,7 @@ A minimalistic WPF desktop application built with .NET 8 to securely manage and 
 2. Open `PasswordVault.sln` in Visual Studio.
 
 3. Press `F5` or click **Start** to build and run.
-4. 
+   
 ### 🛠️ Build via CLI
 
 ```bash
